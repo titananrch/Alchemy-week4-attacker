@@ -145,6 +145,7 @@ If everything worked successfully, you should see:
 ```
 Winner(<your attacker contract address>)
 ```
+(assets/etherscan-winner.png)
 
 ---
 
